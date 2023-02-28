@@ -10,7 +10,7 @@ ___________________________________________________________________
 
 Email 📩 -> psi.fernandoramones@gmail.com
 Celular 📱 -> +549 11 225 45770
-GitHub 📒 -> https://github.com/ferchox920
+
 
 <!--
 **ferchox920/ferchox920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
