@@ -1,28 +1,55 @@
-### ¡Hola, soy Fernando! 👋
+# Hola, soy Fernando Ramones 👋
 
-Soy un desarrollador **Full Stack** apasionado por construir experiencias web dinámicas e intuitivas. Cuento con experiencia sólida en tecnologías como **React.js**, **TypeScript**, **JavaScript**, **Node.js**, **Express.js**, **NestJS**, **SQL** (MySQL y PostgreSQL), **Sequelize**, **TypeORM**, **Redux** y **CSS Modules**. 🚀💻
+### Backend & IoT Developer | Go & Node.js Specialist | Psicólogo
 
-Me gradué con distinción en **SoyHenry**, donde fui reconocido por mi rendimiento excepcional y liderazgo en proyectos colaborativos, desempeñándome como Head Assistant. Además, tengo amplia experiencia en coordinación de equipos, implementación de metodologías ágiles, planificación y gestión eficiente de sprints en proyectos complejos. 👥💪
-
-Mi trayectoria incluye la creación de APIs RESTful robustas, diseño e implementación de bases de datos relacionales, manejo de integraciones IoT con dispositivos como **ESP32** y soluciones con **MQTT**. También he desplegado aplicaciones utilizando plataformas como **AWS**, **Firebase**, **Railway**, **Render** y **Vercel**. Además, he desarrollado proyectos en **Python** utilizando **FastAPI**, ampliando mi experiencia hacia servicios rápidos y eficientes en Python. 🔍✨
-
-En el último año y medio, he formado parte de **Novogas**, una startup peruana del sector energético enfocada en transformar el sistema de logística y comercialización de gas en bidones, impulsando soluciones innovadoras y sostenibles en el mercado energético.
-
-Actualmente estoy enfocado en expandir mis habilidades hacia la integración de servicios microservicios y gateways en NestJS, automatización con Puppeteer, y manejo avanzado de protocolos Bluetooth Low Energy (BLE) para proyectos IoT.
-
-Si buscas un desarrollador motivado, orientado a resultados y con ganas de aportar valor a tu proyecto, ¡hablemos! Siempre estoy abierto a nuevas oportunidades y colaboraciones desafiantes. 🤝👨‍💻
+Soy un desarrollador apasionado por la **arquitectura de software escalable** y la intersección entre el mundo físico y digital (**IoT**). Mi background como **Licenciado en Psicología** me otorga una ventaja única: combino código eficiente con una visión sistémica y liderazgo técnico enfocado en las personas.
 
 ---
 
-📩 **Email:** psi.fernandoramones@gmail.com  
-📱 **Celular:** +549 11 225 45770
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente trabajo en **Industria4.tech** desarrollando ecosistemas IoT (ESP32/BLE) y backends de telemetría en tiempo real.
+- 🏗️ Me especializo en **Clean Architecture**, **Hexagonal** y **Microservicios**.
+- 🧠 Mi enfoque: Código robusto, testing exhaustivo y comunicación efectiva.
+- 📍 Basado en **Buenos Aires, Argentina**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Lenguajes Principales**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**IoT & Hardware**
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) ![Bluetooth](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+
+**Backend & Infra**
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 💡 Proyectos Destacados
+
+### 🧠 [Clon Conversacional (llm-psy)](#)
+*Un sistema de IA diseñado con memoria narrativa y lógica de prompts avanzada.*
+- **Core:** Implementación de Clean Architecture desacoplada.
+- **Tech:** Go, REST APIs.
+- **Focus:** Modelado de comportamiento basado en perfiles psicológicos.
+
+### 📡 [Módulo de Testeo BLE - ESP32](#)
+*Tooling especializado para pruebas de estrés en hardware.*
+- **Core:** Herramientas para stress testing de conectividad, reconexión automática y métricas de estabilidad.
+- **Tech:** Python, ESP32, BLE, Serial Port.
+- **Impacto:** Aseguramiento de calidad para despliegues IoT críticos.
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Estadísticas de Fernando](https://github-readme-stats.vercel.app/api?username=ferchox920&show_icons=true&theme=radical)
+---
+
+## 📫 Contacto
+
+- **LinkedIn:** [Fernando Andrés Ramones](https://www.linkedin.com/in/fernando-andres-ramones-ramones/)
+- **Email:** fernandoramones92@gmail.com
