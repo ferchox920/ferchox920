@@ -47,12 +47,6 @@ Soy un desarrollador apasionado por la **arquitectura de software escalable** y 
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de Fernando](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_EXACTO&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contacto
 
 - **LinkedIn:** [Fernando Andrés Ramones](https://www.linkedin.com/in/fernando-andres-ramones-ramones/)
